@@ -11,3 +11,6 @@ print(f"El promedio de la lista es: {promedio}")
 maximo = max(numeros)
 minimo = min(numeros)
 print(f"Maximo: {maximo} | Minimo: {minimo}")
+
+print("Resultados del analisis estadistico:")
+print("Resultados del analisis de Estudiante B:")
